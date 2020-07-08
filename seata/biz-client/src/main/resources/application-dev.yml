@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: biz-client
+logging:
+  config: classpath:log/logback.cfg.xml
